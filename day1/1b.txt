@@ -1,0 +1,4 @@
+# MS Excel
+# Create 2 new rows with =SUM(A1:A3) and =SUM(A2:A4)
+# Use solution from 1a, but with rows B and C for example ; =SUMPRODUCT(--(B1:B1998<C1:A1998))
+# Rows 1999 and 2000 are invalid data

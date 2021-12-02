@@ -1,0 +1,2 @@
+#Input in MS Excel
+=SUMPRODUCT(--(A1:A1999<A2:A2000))
